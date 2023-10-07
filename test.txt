@@ -9,6 +9,6 @@ MASTER
 
 THIS IS FOR NEWBRANCH1
 
-
-
 master changes for conflict
+
+conflict from feature
