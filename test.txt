@@ -13,4 +13,4 @@ master changes for conflict
 
 conflict from feature
 
-INCORRECT INFO
+CORRECT CHANGES
