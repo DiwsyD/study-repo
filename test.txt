@@ -3,6 +3,3 @@ second line
 
 third line
 fourth line
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-wrong lines should be deleted
