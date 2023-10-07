@@ -8,3 +8,7 @@ MASTER
 12312312312321
 
 THIS IS FOR NEWBRANCH1
+
+
+
+conflict from feature
