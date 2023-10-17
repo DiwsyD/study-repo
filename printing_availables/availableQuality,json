@@ -1,0 +1,34 @@
+{
+	"quality" :[
+		{
+			"name": "200 mim",
+			"available": false,
+			"translation": "200 мікрон"
+		},
+		{
+			"name": "150 mim",
+			"available": false,
+			"translation": "150 мікрон"
+		},
+		{
+			"name": "100 mim",
+			"available": false,
+			"translation": "100 мікрон"
+		},
+		{
+			"name": "50 mim",
+			"available": false,
+			"translation": "50 мікрон"
+		},
+		{
+			"name": "25 mim",
+			"available": false,
+			"translation": "25 мікрон"
+		},
+		{
+			"name": "10 mim",
+			"available": true,
+			"translation": "10 мікрон"
+		}
+	]
+}
