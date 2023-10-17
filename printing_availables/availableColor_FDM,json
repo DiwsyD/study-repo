@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "white",
-			"available": true,
+			"available": false,
 			"translation": "Білий"
 		},
 		{
